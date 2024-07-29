@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="view_margin_top_10">10dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="radius_12">12dp</dimen>
+    <dimen name="view_margin_50">50dp</dimen>
+    <dimen name="sheet_padding">16dp</dimen>
+    <dimen name="sheet_corner_radius">24dp</dimen>
+    <dimen name="section_margin">16dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="search_bar_height">56dp</dimen>
+    <dimen name="thickness">1dp</dimen>
+    <dimen name="section_height">56dp</dimen>
+
+</resources>
