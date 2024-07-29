@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FloatingActionButton Dimensions -->
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- CollapsingToolbarLayout Dimensions -->
+    <dimen name="collapsing_toolbar_height">280dp</dimen>
+
+    <!-- ViewPager Dimensions -->
+    <dimen name="view_pager_width">300dp</dimen>
+    <dimen name="view_pager_height">150dp</dimen>
+    <dimen name="view_margin_top_10">10dp</dimen>
+
+    <!-- SearchView Dimensions -->
+    <dimen name="search_view_height">40dp</dimen>
+    <dimen name="toolbar_horizontal_margin">30dp</dimen>
+    <dimen name="tab_layout_height">20dp</dimen>
+
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="image_size">60dp</dimen>
+    <dimen name="image_margin_start">8dp</dimen>
+    <dimen name="title_margin_top">4dp</dimen>
+    <dimen name="subtitle_margin_top">4dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+
+    <dimen name="view_margin_top_5">5dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+</resources>

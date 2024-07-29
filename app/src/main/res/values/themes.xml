@@ -1,0 +1,30 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EcoList" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/green</item>
+
+    </style>
+
+    <style name="Theme.EcoList" parent="Base.Theme.EcoList" />
+
+    <style name="ThemeOverlay.SearchView" parent="Theme.EcoList">
+        <!-- Text color -->
+        <item name="android:editTextColor">@color/black</item>
+        <item name="iconTint">@color/black</item>
+        <!-- Hint text color -->
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+
+    <style name="CustomActionBar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <!-- Support library compatibility -->
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="RoundedCornerImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item> <!-- or any other radius you want -->
+    </style>
+
+</resources>

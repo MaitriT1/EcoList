@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EcoApp</string>
+    <string name="items_count">Items Count</string>
+    <string name="top_characters">Top 3 Characters</string>
+    <string name="menu">menu</string>
+    <string name="dots">dots</string>
+    <string name="carousel_image">carousel image</string>
+    <string name="search">Search</string>
+    <string name="no_data_found">No data found.</string>
+</resources>
